@@ -1,0 +1,12 @@
+﻿{
+    "name": "json-file-binding",
+    "description": "Bind an object to a file, with autosave or at process exit",
+    "version": "0.1.0",
+    "author": {
+        "name": "djeck",
+        "email": "bertonmarc@gmail.com"
+    },
+    "dependencies": {
+        "extend": "^3.0.0"
+    }
+}
