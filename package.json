@@ -1,12 +1,16 @@
 ﻿{
     "name": "json-file-binding",
     "description": "Bind an object to a file, with autosave or at process exit",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "djeck",
         "email": "bertonmarc@gmail.com"
     },
     "dependencies": {
         "extend": "^3.0.0"
-    }
+    },
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TitDjeck/json-file-binding.git"
+	}
 }
